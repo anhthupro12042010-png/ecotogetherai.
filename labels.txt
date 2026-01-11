@@ -1,0 +1,5 @@
+0 Rác Thải Nhựa
+1 Rác Thải Giấy
+2 Rác Thải Kim Loại
+3 Rác Thải Hữu Cơ
+4 Các Loại Rác Khác
